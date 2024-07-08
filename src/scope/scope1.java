@@ -10,6 +10,6 @@ public class scope1 {
         } // x 생존 종료
 
         //System.out.println("main x = " + x);
-        System.out.println("main m = " + m );
+        System.out.println("main m = " + m ) ;
     }
 }
