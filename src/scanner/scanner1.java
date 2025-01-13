@@ -14,7 +14,7 @@ public class scanner1 {
         System.out.println("입력한 정수 " + intValue);
 
         System.out.print("실수를 입력하세요 : ");
-        double doubleValue = scanner.nextDouble(); // 입력을 double로 가져온다
+        double doubleValue = scanner.nextDouble(); // 입력을 double로 가져온다.
         System.out.println("입력한 실수 " + doubleValue);
 
     }
