@@ -38,6 +38,9 @@ public class scanner16 {
                     a= false;
                     break;
 
+                default:
+                    System.out.println("올바른 선택이 아닙니다. 다시 선택해주세요.");
+
 
 
 
