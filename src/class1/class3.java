@@ -21,6 +21,6 @@ public class class3 {
         System.out.println("이름 : " + student1.name + " 나이 : " + student1.age + " 성적 : " + student1.grade);
         System.out.println("이름 : " + student2 .name + " 나이 : " + student2.age + " 성적 : " + student2.grade);
 
-
+// 객체는 클래스에서 정의한 속성과 기능을 가진 실체이다.
     }
 }
