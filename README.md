@@ -34,3 +34,4 @@
 
 ## NullPointerException
 - 주소가 없는 곳을 찾아갈 때 발생하는 예외이다.
+- NullPointerException이 발생하면 null값에 .(dot)을 찍었다고 생각하면 문제를 쉽게 찾을 수 있다.
