@@ -20,7 +20,7 @@ public class DecoData {
     }
 
     public void instanceCall(){
-        instanceValue ++; //인스턴스 변수 접근
+        instanceValue ++; //인스턴스 변수 접근r
         instanceMethod(); //인스턴스 메서드  접근
         staticValue++; //정적 변수 접근
         staticMethod(); // 정적 메서드 접근
